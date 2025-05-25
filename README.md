@@ -50,9 +50,20 @@ BINANCE_API_SECRET=your_api_secret_here
 ```
 The bot supports SIMULATION_MODE = True so real keys are not required for basic testing.
 
+
+
+
+
+
 5. Run the Streamlit app
 ```
 streamlit run app.py
 
 ```
 Your default browser will open the app UI.
+
+
+
+ScreenShots:
+![image](https://github.com/user-attachments/assets/3502fbd6-6082-4e47-bd08-5a8deb394f7b)
+![image](https://github.com/user-attachments/assets/046fb69d-6150-4bd3-bf24-c0364f0865f2)
